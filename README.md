@@ -1,5 +1,4 @@
-
-
+Tutorial Video:![video](https://drive.google.com/file/d/1GRkmOMiZm6apl5Puq_CnXUTkjIq2Chqs/preview)
 
 # Employee Model.Organizer ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)
 https://github.com/MaDavilaJr/Employee Model.Organizer
@@ -41,4 +40,5 @@ GitHub: [#{github}](https:www.github.com/MaDavilaJr)
 
 Email: migueldavilajr@gmail.com
 
+![image](https://user-images.githubusercontent.com/93358568/150728453-c552150c-5bf2-448c-8383-1d09b01c295d.png)
 
