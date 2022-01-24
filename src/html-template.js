@@ -46,7 +46,7 @@ const createTeam = team => {
             <ul class="list-group">
                 <li class="list-group-item">ID: ${intern.getId()}</li>
                 <li class="list-group-item">Email: <a href="mailto:${intern.getEmail()}">${intern.getEmail()}</a></li>
-                <li class="list-group-item">GitHub: ${intern.getSchool()}</li>
+                <li class="list-group-item">School: ${intern.getSchool()}</li>
             </ul>
         </div>
     </div>

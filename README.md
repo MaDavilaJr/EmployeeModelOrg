@@ -1,4 +1,4 @@
-# 10 Object-Oriented Programming: Team Profile Generator
+[# 10 Object-Oriented Programming: Team Profile Generator
 
 ## Your Task
 
@@ -175,3 +175,4 @@ You are required to submit the following for review:
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+]
